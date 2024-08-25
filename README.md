@@ -10,7 +10,7 @@
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
  - The University of Melbourne (Unimelb) Email: yuansy2@student.unimelb.edu.au
 
-🔭 **Research-wise, I mainly focus on**:
+🔭 **I focus on**:
 - Infrared Small Target Detection (IRSTD)
 - Infrared Small Target Label Generation (IRSLG)
 - Infrared Image Restoration
@@ -26,6 +26,6 @@
 + Shiqi Yang, Hanlin Qin,**Shuai Yuan**, et al. DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping.
   IEEE Transactions on Instrumentation and Measurement, 2024. [[Paper]](https://arxiv.org/abs/2402.09101) [[code]](https://github.com/xdFai/DestripeCycleGAN)
 
-👯**Journal Reviewer**:
+👯 **Journal Reviewer**:
 + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 + Infrared Physics & Technology
