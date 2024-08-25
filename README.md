@@ -1,4 +1,4 @@
-### Hello, I'm [Shuai Yuan (袁帅 in Chinese)]! 😄
+### Hello, I'm [Shuai Yuan (袁帅 in Chinese)]! 😎:
 
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/xdFai?label=Followers" alt="github follow" />
