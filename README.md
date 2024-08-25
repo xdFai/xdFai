@@ -6,7 +6,7 @@
 </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xdFai&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
-🌱 **I’m currently learning a PhD student at**：
+🌱 **I am pursuing a PhD at**：
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
  - The University of Melbourne (Unimelb) Email: yuansy2@student.unimelb.edu.au
 
