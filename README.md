@@ -1,4 +1,3 @@
-### Hello, I'm [Shuai Yuan (袁帅 in Chinese)]! 😎:
 ![Image text](https://github.com/xdFai/xdFai/blob/main/Git.png)
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/xdFai?label=Followers" alt="github follow" />
@@ -8,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/xdFai">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xdFai&show_icons=true&theme=radical"/>
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdFai&layout=compact"/> -->
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdFai&layout=compact"/>  ### Hello, I'm [Shuai Yuan (袁帅 in Chinese)]! 😎:-->
 </div>
   
 
