@@ -1,5 +1,5 @@
 ### Hello, I'm [Shuai Yuan (袁帅 in Chinese)]! 😎:
-
+![Image text](https://github.com/xdFai/xdFai/blob/main/Git.png)
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/xdFai?label=Followers" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=xdFai" alt="profile views" /> 
@@ -16,10 +16,7 @@
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
  - The University of Melbourne (Unimelb) Email: yuansy2@student.unimelb.edu.au
 
-🔭 **I focus on**:
-- Infrared Small Target Detection (IRSTD)
-- Infrared Small Target Label Generation (IRSTLG)
-- Infrared Image Restoration
+🔭 **I focus on**: Infrared Small Target Detection (IRSTD), Infrared Small Target Label Generation (IRSTLG), and Infrared Image Restoration
 
 ⚡ **Publications**:
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
