@@ -18,7 +18,7 @@
 
 🔭 **I focus on**:
 - Infrared Small Target Detection (IRSTD)
-- Infrared Small Target Label Generation (IRSLG)
+- Infrared Small Target Label Generation (IRSTLG)
 - Infrared Image Restoration
 
 ⚡ **Publications**:
