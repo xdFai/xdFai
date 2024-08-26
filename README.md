@@ -1,4 +1,4 @@
-![Image text](https://github.com/xdFai/xdFai/blob/main/Git.png)
+![Image text](https://github.com/xdFai/xdFai/blob/main/Git1.png)
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/xdFai?label=Followers" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=xdFai" alt="profile views" /> 
