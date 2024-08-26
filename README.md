@@ -1,5 +1,5 @@
 ### Hello, I'm [Shuai Yuan (袁帅 in Chinese)]! 😎:
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Shuai Yuan. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/xdFai?label=Followers" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=xdFai" alt="profile views" /> 
