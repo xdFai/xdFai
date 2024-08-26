@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xdFai" alt="profile views" /> 
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/xdFai">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xdFai&show_icons=true&theme=radical"/>
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdFai&layout=compact"/> -->
