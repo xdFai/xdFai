@@ -4,7 +4,13 @@
   <img src="https://img.shields.io/github/followers/xdFai?label=Followers" alt="github follow" />
   <img src="https://komarev.com/ghpvc/?username=xdFai" alt="profile views" /> 
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xdFai&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+
+<div align="center">
+  <a href="https://github.com/SashenJayathilaka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xdFai&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdFai&layout=compact"/>
+</div>
+  
 
 🌱 **I am pursuing a PhD at**：
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
