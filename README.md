@@ -18,14 +18,14 @@
 🔭 **I focus on**: Infrared Small Target Detection (IRSTD), Infrared Small Target Label Generation (IRSTLG), and Infrared Image Restoration
 
 ⚡ **Publications**:
-+ **Shuai Yuan**, Hanlin Qin*, Xiang Yan*, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
++ **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
   IEEE Transactions on Geoscience and Remote Sensing 2024. [[Paper]](https://ieeexplore.ieee.org/document/10486932) [[code]](https://github.com/xdFai/SCTransNet)
   (**Champion Baseline of PRCV 2024**, **ICPR 2024 Track 1**, **ICPR 2024 Track 2**.👋👋👋)
-+ **Shuai Yuan**, Hanlin Qin*, Renke Kou, et al. Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation.
++ **Shuai Yuan**, Hanlin Qin, Renke Kou, et al. Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation.
   Undergoing review on XXXX 2025. [[Paper]](https://www.arxiv.org/abs/2408.08191) [[code]](https://github.com/xdFai/EDGSP) (**Accurate labeling of three datasets for the first time**.👋👋👋)
-+ **Shuai Yuan**, Hanlin Qin*, Xiang Yan*, et al. IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping.
++ **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping.
   Undergoing review on IEEE Transactions on Geoscience and Remote Sensing. [[dataset]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohXJwSnHvG7iH/view?usp=sharing) [[code]](https://github.com/xdFai/IRSTDID-800)
-+ **Shuai Yuan**, Hanlin Qin*, Xiang Yan*, et al. ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping.  Undergoing review on IEEE Transactions on Geoscience and Remote Sensing. [[Paper]](https://arxiv.org/abs/2401.15578) [[code]](https://github.com/xdFai/ASCNet)
++ **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping.  Undergoing review on IEEE Transactions on Geoscience and Remote Sensing. [[Paper]](https://arxiv.org/abs/2401.15578) [[code]](https://github.com/xdFai/ASCNet)
 + Shiqi Yang, Hanlin Qin*,**Shuai Yuan***, et al. DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping.
   IEEE Transactions on Instrumentation and Measurement, 2024. [[Paper]](https://arxiv.org/abs/2402.09101) [[code]](https://github.com/xdFai/DestripeCycleGAN)
 
