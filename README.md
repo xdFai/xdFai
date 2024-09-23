@@ -26,7 +26,7 @@
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping.
   Undergoing review on IEEE Transactions on Geoscience and Remote Sensing. [[dataset]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohXJwSnHvG7iH/view?usp=sharing) [[code]](https://github.com/xdFai/IRSTDID-800)
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping.  Undergoing review on IEEE Transactions on Geoscience and Remote Sensing. [[Paper]](https://arxiv.org/abs/2401.15578) [[code]](https://github.com/xdFai/ASCNet)
-+ Shiqi Yang, Hanlin Qin,**Shuai Yuan**, et al. DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping.
++ Shiqi Yang, Hanlin Qin*,**Shuai Yuan***, et al. DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping.
   IEEE Transactions on Instrumentation and Measurement, 2024. [[Paper]](https://arxiv.org/abs/2402.09101) [[code]](https://github.com/xdFai/DestripeCycleGAN)
 
 👯 **Journal Reviewer**:
