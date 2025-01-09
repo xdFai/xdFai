@@ -15,7 +15,7 @@
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
  - The University of Melbourne (Unimelb) Email: yuansy2@student.unimelb.edu.au
 
-🔭 **I focus on**: Infrared Small Target Detection (IRSTD), Infrared Small Target Label Generation (IRSTLG), and Infrared Image Restoration
+🔭 **I focus on**: Infrared Small Target Detection (IRSTD) and Infrared Image Restoration
 
 ⚡ **Publications**:
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
