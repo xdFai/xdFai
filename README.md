@@ -15,7 +15,7 @@
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
 
 🔭 **I focus on**: 
- - Infrared Small Target Detection (IRSTD)
+ - Infrared Small Target Detection
  - Infrared Image Restoration
 
 ⚡ **Publications**:
