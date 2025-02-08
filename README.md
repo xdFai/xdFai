@@ -13,7 +13,6 @@
 
 🌱 **I am pursuing a PhD at**：
  - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
- - The University of Melbourne (Unimelb) Email: yuansy2@student.unimelb.edu.au
 
 🔭 **I focus on**: 
  - Infrared Small Target Detection (IRSTD)
