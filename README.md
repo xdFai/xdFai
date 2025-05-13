@@ -21,7 +21,7 @@
 ⚡ **Publications**:
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
   IEEE Transactions on Geoscience and Remote Sensing 2024. [[Paper]](https://ieeexplore.ieee.org/document/10486932) [[code]](https://github.com/xdFai/SCTransNet)
-  (**Champion Baseline of PRCV 2024**, **ICPR 2024 Track 1**, and **ICPR 2024 Track 2**.👋👋👋)
+  (**ESI Highly Cited Paper**，Champion Baseline of PRCV 2024, ICPR 2024 Track 1 , and ICPR 2024 Track 2.👋👋👋)
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping.
   IEEE Transactions on Geoscience and Remote Sensing 2024. [[Paper]](https://ieeexplore.ieee.org/document/10695116) [[code]](https://github.com/xdFai/IRSTDID-800) (**Association of image destriping and IRSTD tasks for the first time**.👋👋👋)
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping. IEEE Transactions on Geoscience and Remote Sensing 2025. [[Paper]](https://ieeexplore.ieee.org/document/10855453) [[code]](https://github.com/xdFai/ASCNet) (**Effectively removes the non-uniformity stripe noise of real images**.👋👋👋)
