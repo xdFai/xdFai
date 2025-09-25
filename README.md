@@ -11,11 +11,11 @@
 <!--  </div>-->
   
 
-🎓 **I earned the PhD degree at**：
- - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn
-
 🌱 **I am currently a postdoctoral researcher at**：
- - Hefei University of Technology (HFUT) Email: shuaiyuan@hfut.edu.cn
+ - Hefei University of Technology (HFUT). Email: shuaiyuan@hfut.edu.cn
+ - 
+🎓 **I earned the PhD degree at**：
+ - Xidian University (Xidian).  Email: yuansy@stu.xidian.edu.cn
 
 🔭 **I focus on**: 
  - Infrared Small Target Detection
@@ -34,7 +34,8 @@
   IEEE Transactions on Instrumentation and Measurement, 2024. [[Paper]](https://arxiv.org/abs/2402.09101) [[code]](https://github.com/xdFai/DestripeCycleGAN)
 
 👯 **Journal Reviewer**:
++ IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 + IEEE Transactions on Multimedia (TMM)
-+ IEEE Transactions on Geoscience and Remote Sensing (TGRS)
++ IEEE Signal Processing Letters （SPL）
 + Infrared Physics & Technology
