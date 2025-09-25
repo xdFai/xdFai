@@ -11,12 +11,16 @@
 <!--  </div>-->
   
 
-🌱 **I am pursuing a PhD at**：
- - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn 
+🎓 **I earned the PhD degree at**：
+ - Xidian University (Xidian)  Email: yuansy@stu.xidian.edu.cn
+
+🌱 **I am currently a postdoctoral researcher at**：
+ - Hefei University of Technology (HFUT) Email: shuaiyuan@hfut.edu.cn
 
 🔭 **I focus on**: 
  - Infrared Small Target Detection
  - Infrared Image Restoration
+ - Kolmogorov–Arnold Networks
 
 ⚡ **Publications**:
 + **Shuai Yuan**, Hanlin Qin, Xiang Yan, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
