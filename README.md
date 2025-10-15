@@ -11,6 +11,9 @@
 <!--  </div>-->
   
 
+ - Google Scholar: https://scholar.google.com/citations?user=ZrwhlAUAAAAJ&hl=zh-CN&oi=sra
+ - Work Homepage: https://yqkx.hfut.edu.cn/2017/0504/c14421a315303/page.htm
+
 🌱 **I am currently a postdoctoral researcher at**：
  - Hefei University of Technology (HFUT). Email: shuaiyuan@hfut.edu.cn
    
