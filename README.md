@@ -15,10 +15,10 @@
  - Work Homepage: https://yqkx.hfut.edu.cn/2017/0504/c14421a315303/page.htm
 
 🌱 **I am currently a postdoctoral researcher at**：
- - Hefei University of Technology (HFUT).
+ - Hefei University of Technology (HFUT)
    
 🎓 **I earned the PhD degree at**：
- - Xidian University (Xidian).
+ - Xidian University (Xidian)
 
 🔭 **I focus on**: 
  - Infrared Small Target Detection
