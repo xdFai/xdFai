@@ -15,10 +15,10 @@
  - Work Homepage: https://yqkx.hfut.edu.cn/2017/0504/c14421a315303/page.htm
 
 🌱 **I am currently a postdoctoral researcher at**：
- - Hefei University of Technology (HFUT). Email: shuaiyuan@hfut.edu.cn
+ - Hefei University of Technology (HFUT).
    
 🎓 **I earned the PhD degree at**：
- - Xidian University (Xidian).  Email: yuansy@stu.xidian.edu.cn
+ - Xidian University (Xidian).
 
 🔭 **I focus on**: 
  - Infrared Small Target Detection
@@ -42,3 +42,7 @@
 + IEEE Transactions on Multimedia (TMM)
 + IEEE Signal Processing Letters （SPL）
 + Infrared Physics & Technology
+
+📫**博士生、硕士生以及本科生兴趣合作**：
+ + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
+ + WeChat: 17629021804 (注明姓名、单位、来意)
