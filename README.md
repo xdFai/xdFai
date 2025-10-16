@@ -45,4 +45,4 @@
 
 📫**博士生、硕士生以及本科生兴趣合作**：
  + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
- + [[WeChat]](https://github.com/xdFai/xdFai/blob/main/Git2.png) (注明姓名、单位、来意)
+ + [[WeChat]](https://github.com/xdFai/xdFai/blob/main/wechat.jpg) (注明姓名、单位、来意)
