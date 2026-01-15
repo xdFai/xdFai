@@ -37,10 +37,11 @@
   IEEE Transactions on Instrumentation and Measurement, 2024. [[Paper]](https://arxiv.org/abs/2402.09101) [[code]](https://github.com/xdFai/DestripeCycleGAN)
 
 👯 **Journal Reviewer**:
++ IEEE Transactions on Image Processing (TIP)
 + IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 + IEEE Transactions on Multimedia (TMM)
-+ IEEE Signal Processing Letters （SPL）
++ IEEE Signal Processing Letters (SPL)
 + Infrared Physics & Technology
 
 📫**博士生、硕士生以及本科生兴趣合作**：
