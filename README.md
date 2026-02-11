@@ -21,9 +21,7 @@
  - Xidian University (Xidian)
 
 🔭 **I focus on**: 
- - Infrared Small Target Detection
- - Infrared Image Restoration
- - Kolmogorov–Arnold Networks
+ - Infrared Small Target Detection  - Infrared Image Restoration
 
 ⚡ **Publications**:
 + **Shuai Yuan**, Yu Liu*, Xiaopei Zhang, et al. SP-KAN: Sparse-sine Perception Kolmogorov-Arnold Networks for Infrared Small Target Detection.
