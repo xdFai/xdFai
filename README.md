@@ -26,7 +26,7 @@
 
 ⚡ **Publications**:
 + **Shuai Yuan**, Yu Liu*, Xiaopei Zhang, et al. SP-KAN: Sparse-sine Perception Kolmogorov-Arnold Networks for Infrared Small Target Detection.
-  ISPRS Journal of Photogrammetry and Remote Sensing 2026.
+  ISPRS Journal of Photogrammetry and Remote Sensing 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271626000705)
 + **Shuai Yuan**, Hanlin Qin*, Xiang Yan*, et al. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
   IEEE Transactions on Geoscience and Remote Sensing 2024. [[Paper]](https://ieeexplore.ieee.org/document/10486932) [[code]](https://github.com/xdFai/SCTransNet) [[Paper_video]](https://www.bilibili.com/video/BV1kr421M7wx/)
   (**ESI Highly Cited Paper**, Champion Baseline of PRCV 2024, ICPR 2024 Track 1, and ICPR 2024 Track 2.👋👋👋)
