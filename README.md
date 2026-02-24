@@ -24,7 +24,7 @@
  - Infrared Small Target Detection
  - Infrared Image Restoration
 
-⚡ **Publications**:
+⚡ **Publications** (* corresponding author):
 + **Shuai Yuan**, Yu Liu*, Xiaopei Zhang, Xiang Yan*, Hanlin Qin, Naveed Akhtar. SP-KAN: Sparse-sine Perception Kolmogorov-Arnold Networks for Infrared Small Target Detection.
   ***ISPRS Journal of Photogrammetry and Remote Sensing***, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271626000705) [[code]](https://github.com/xdFai/SP-KAN)
 + **Shuai Yuan**, Hanlin Qin*, Xiang Yan*, Naveed Akhtar, Ajmal Mian. SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection.
