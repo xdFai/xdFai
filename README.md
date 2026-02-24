@@ -14,13 +14,13 @@
  - Google Scholar: https://scholar.google.com/citations?user=ZrwhlAUAAAAJ&hl=zh-CN&oi=sra
  - Work Homepage: https://yqkx.hfut.edu.cn/2017/0504/c14421a315303/page.htm
 
-🌱 **I am currently a postdoctoral researcher at**：
+🌱 **I am currently a postdoctoral researcher at**:
  - Hefei University of Technology (HFUT)
    
-🎓 **I earned the PhD degree at**：
+🎓 **I earned the PhD degree at**:
  - Xidian University (Xidian)
 
-🔭 **I focus on**: 
+🔭 **I focus on**:
  - Infrared Small Target Detection
  - Infrared Image Restoration
 
@@ -46,6 +46,6 @@
 + IEEE Signal Processing Letters (SPL)
 + Infrared Physics & Technology
 
-📫**博士生、硕士生以及本科生兴趣合作**：
+📫 **How to reach me**:
  + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
  + [[WeChat]](https://github.com/xdFai/xdFai/blob/main/wechat.jpg) (注明姓名、单位、来意)
