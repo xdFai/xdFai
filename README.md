@@ -37,7 +37,7 @@
 + **Shuai Yuan**, Hanlin Qin*, Renke Kou, Xiang Yan*, Zechuan Li, Chenxu Peng, Dongliang Wu, Huixin Zhou. Beyond Full Label: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation. ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025. [[Paper]](https://www.arxiv.org/abs/2408.08191) [[Code]](https://github.com/xdFai/EDGSP) (Accurate labeling of three datasets for the first time.)
 + Shiqi Yang, Hanlin Qin*, **Shuai Yuan***, Xiang Yan, Hossein Rahmani. DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping.
   ***IEEE Transactions on Instrumentation and Measurement***, 2024. [[Paper]](https://arxiv.org/abs/2402.09101) [[Code]](https://github.com/xdFai/DestripeCycleGAN)
-+ **Shuai Yuan**, Xiang Yan, Yugeng Zhang, Hanlin Qin*. High-dynamic infrared small target detection based on double-neighborhood difference amplification method(Invited). ***Infrared and Laser Engineering***, 2022, 51(4): 20220171-1-20220171-11. [[Paper]](https://arxiv.org/abs/2402.09101) [[Code]](https://github.com/xdFai/DestripeCycleGAN)
++ **Shuai Yuan**, Xiang Yan, Yugeng Zhang, Hanlin Qin*. High-dynamic infrared small target detection based on double-neighborhood difference amplification method(Invited). ***Infrared and Laser Engineering***, 2022. [[Paper]](https://arxiv.org/abs/2402.09101) [[Code]](https://github.com/xdFai/DestripeCycleGAN)
 
 👯 **Journal Reviewer**:
 + IEEE Transactions on Image Processing (TIP)
