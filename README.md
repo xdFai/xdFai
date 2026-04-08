@@ -15,7 +15,7 @@
  - Work Homepage: https://yqkx.hfut.edu.cn/2017/0504/c14421a315303/page.htm
 
 🌱 **I am currently a postdoctoral researcher at**:
- - Hefei University of Technology (HFUT) with group of [[MIFP]](https://yuliu316316.github.io/GROUP.html) 
+ - Hefei University of Technology (HFUT), working with the [[MIFP]](https://yuliu316316.github.io/GROUP.html) group.
    
 🎓 **I earned the PhD degree at**:
  - Xidian University (Xidian)
