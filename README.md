@@ -17,6 +17,10 @@
 🌱 **I am currently a postdoctoral researcher at**:
  - Hefei University of Technology (HFUT), working with the [[MIFP]](https://yuliu316316.github.io/GROUP.html) group.
    
+📫 **How to reach me**:
+ + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
+ + [[WeChat]](https://github.com/xdFai/xdFai/blob/main/wechat.jpg) (注明姓名、单位、来意)
+
 🎓 **I earned the PhD degree at**:
  - Xidian University (Xidian)
 
@@ -48,6 +52,4 @@
 + IEEE Signal Processing Letters (SPL)
 + Infrared Physics & Technology
 
-📫 **How to reach me**:
- + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
- + [[WeChat]](https://github.com/xdFai/xdFai/blob/main/wechat.jpg) (注明姓名、单位、来意)
+
