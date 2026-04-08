@@ -14,7 +14,7 @@
  - Google Scholar: https://scholar.google.com/citations?user=ZrwhlAUAAAAJ&hl=zh-CN&oi=sra
  - Work Homepage: https://yqkx.hfut.edu.cn/2017/0504/c14421a315303/page.htm
 
-### I earned the PhD degree at Xidian University, I am currently a postdoctoral researcher in the [[MIFP]](https://yuliu316316.github.io/GROUP.html) group at Hefei University of Technology (HFUT), supervised by Professor [[Liuyu]](https://faculty.hfut.edu.cn/yuliu).
+### I am currently a postdoctoral researcher at the Multi-modal Infromation Fusion and Perception [[MIFP]](https://yuliu316316.github.io/GROUP.html) Research group, Instrument Science and Opto-electronics Engineering, Hefei University of Technology (HFUT). I am proud to be a team led by Prof. [[Liuyu(刘羽)]](https://faculty.hfut.edu.cn/yuliu).
    
 📫 **How to reach me**:
  + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
