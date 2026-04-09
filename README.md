@@ -17,7 +17,7 @@
 **I am currently a postdoctoral researcher at the Multi-modal Information Fusion and Perception [[MIFP]](https://yuliu316316.github.io/GROUP.html) Research Group, School of Instrument Science and Opto-electronics Engineering, Hefei University of Technology (HFUT). I am proud to be part of a team led by Professor [[Liuyu(刘羽)]](https://faculty.hfut.edu.cn/yuliu).**
 
 
-袁帅，合肥工业大学仪器科学与光电工程学院A类博士后，刘羽教授团队。曾受国家留学基金委资助，于澳大利亚墨尔本大学完成一年联合培养，获博士研究生国家奖学金、中电集团一等奖学金、2025年全国光学与光学工程博士生学术联赛西北赛区二等奖。聚焦红外图像复原与红外小目标检测技术，主持研究生创新基金1项，参研国家自然科学基金、领域基金、ZF快速支持、省重点研发计划等项目8项；发表论文15篇，以第一作者发表期刊论文7篇，包括ISPRS P&RS 1篇、IEEE TGRS 3篇（其中1篇长期入选ESI高被引论文，引用200余次）、IEEE JSTARS 1篇、EI期刊论文2篇，以通讯作者发表IEEE TIM 1篇；授权国家发明专利6项，获计算机软件著作权授权4项。
+袁帅，合肥工业大学仪器科学与光电工程学院A类博士后，刘羽教授团队。曾受国家留学基金委资助，于澳大利亚墨尔本大学完成一年联合培养，获博士研究生国家奖学金、中电集团一等奖学金等。聚焦红外图像复原与红外小目标检测技术，主持研究生创新基金1项，参研国家自然科学基金、领域基金、ZF快速支持、省重点研发计划等项目8项；发表论文15篇，以第一作者发表期刊论文7篇，包括ISPRS P&RS 1篇、IEEE TGRS 3篇（其中1篇长期入选ESI高被引论文，引用200余次）、IEEE JSTARS 1篇、EI期刊论文2篇，以通讯作者发表IEEE TIM 1篇；授权国家发明专利6项，获计算机软件著作权授权4项。
 
 **团队长期招募博士后、博士生、硕士生以及本科生，欢迎感兴趣的同学联系我~**
    
