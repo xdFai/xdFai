@@ -22,7 +22,7 @@
 **团队长期招募博士后、博士生、硕士生以及本科生，欢迎感兴趣的同学、老师联系我~**
    
 📫 **How to reach me**:
- + Email: shuaiyuan[at]hfut[dot]edu[dot]cn
+ + Email: shuaiyuan@hfut.edu.cn
  + [[WeChat]](https://github.com/xdFai/xdFai/blob/main/wechat.jpg) (注明姓名、单位、来意)
 
 ⚡ **Publications**:
