@@ -46,8 +46,4 @@
 + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 + IEEE Transactions on Multimedia (TMM)
 + Pattern Recognition (PR)
-+ IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-+ IEEE Signal Processing Letters (SPL)
-+ Infrared Physics & Technology
-
 
